@@ -1,4 +1,4 @@
-**Status:** Archive (code is provided as-is, no updates expected)
+(un)Archived (code is provided as-is, but check back for updates)
 
 # gpt-2
 
